@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+*.local
+verify.js
+john_doe_resume.txt
+/Users/Development/.gemini/antigravity/scratch/john_doe_resume.txt
